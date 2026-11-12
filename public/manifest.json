@@ -1,0 +1,16 @@
+{
+  "name": "IU Sports Hub — Iqra University Sports Management System",
+  "short_name": "IU Sports",
+  "description": "Single source of truth for sports schedules, live scores, standings, and tournaments at Iqra University Islamabad.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08265E",
+  "theme_color": "#08265E",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
