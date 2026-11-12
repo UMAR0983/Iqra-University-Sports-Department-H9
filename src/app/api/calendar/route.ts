@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import { NextRequest, NextResponse } from 'next/server';
 import { hubStore } from '@/lib/store';
 import { generateICS } from '@/lib/ics';
